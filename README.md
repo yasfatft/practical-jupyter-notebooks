@@ -1,2 +1,2 @@
 # Colaboratory Notebooks
-List of maybe useful Google Colaboratory notebooks.
+A List of useful Google Colaboratory notebooks.
